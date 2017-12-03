@@ -17,5 +17,12 @@ if (allNames.indexOf(newName2) === -1) {
 	console.log("Duplikat imienia");
 	alert('Duplikat imienia Asia');
 };
+
+// function addName(names, name) {
+
+// }
+// addName(allNames, newName);
+// addName(allNames, newName2);
+
 console.log(allNames);
 alert(allNames);
